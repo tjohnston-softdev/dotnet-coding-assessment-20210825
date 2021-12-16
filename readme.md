@@ -17,4 +17,3 @@ My attempt at this assessment was made on 25 August 2021. It was converted to ma
 This project is licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). In other words, you may do whatever you want with it as long as attribution is given, the usage is strictly non-commercial, and derived works are shared under the same license. This only applies to my individual submission. I do not claim any copyright over the assessment itself. I have chosen not to disclose the name of the company for confidentiality reasons.
 
 ![CC BY-NC-SA 4.0](https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png)
-
