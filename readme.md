@@ -2,7 +2,7 @@
 
 This is my submission to a coding assessment given to shortlisted candidates for a 'Junior .NET Developer' position role with an international Business Intelligence company. The assessment consisted of several questions related to both interpreting existing code and writing new functions to accomplish a particular task.
 
-My attempt at this assessment was made on 25 August 2021. It was converted to markdown later that day with minor changes on 29 August. The submission was uploaded to GitHub on 30 October 2021 and finally made public on [date]
+My attempt at this assessment was made on 25 August 2021. It was converted to markdown later that day with minor changes on 29 August. The submission was uploaded to GitHub on 30 October 2021 and finally made public on 16 December 2021.
 
 [Question 1: Printing Numbers](./submission/question1.md)  
 [Question 2: Largest of Three Values](./submission/question2.md)  
